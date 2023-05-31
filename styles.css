@@ -184,3 +184,12 @@ a
     flex-direction: column;
 }
 
+.greeting
+{
+    text-align: center;
+    font-family: "arial";
+    font-size: 20px;
+    padding: 10px;
+    margin: 20px;
+}
+
